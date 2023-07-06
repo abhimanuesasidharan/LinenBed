@@ -19,6 +19,7 @@ body{
 #header-feather{
     position: absolute;
     margin-top: 3rem;
+    opacity:0.9;
 }
 .h1{
     font-family:playfair;
@@ -175,5 +176,53 @@ body{
         letter-spacing:1px;
         margin-left: 5px;
     }
+    #catagory-items img{
+        display:none;
+    }
+    .carousel{
+        width:10rem;
+    }
+    #offer-pillow img{
+        width:20rem;
+    }
+    #offer-text{
+        position: absolute;
+        margin-left:0;
+        margin-top:9rem;
+        font-size:8px;
+        line-height:18px;
+        letter-spacing:1px;
+        text-align: center;
+    }
+    #blog-p{
+        font-size:8px;
+        line-height:18px;
+        letter-spacing:1px;
+    }
+    #blog-image{
+        width:10rem;
+        height:10rem;
+    }
+    #footer-cloud2{
+        display:none;
+    }
+    #footer-cloud{
+        display:none;
+    }
+    #footer-image{
+        display:none;
+    }
+    .table{
+        left: 0%;
+        margin-left: 0;
+        font-size:9px;
+        line-height:14px;
+        letter-spacing:0.3px;
+    }
+    #angel{
+        display:none;
+    }
+
+
     
   }
