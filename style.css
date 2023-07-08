@@ -114,7 +114,7 @@ body{
     -webkit-text-fill-color: transparent;
 }
 #blog-p{
-    line-height:1.6rem;
+    line-height:1.9rem;
     letter-spacing:0.1rem
 }
 #blog-image{
@@ -143,8 +143,8 @@ body{
 #footer-cloud2{
     position: absolute;
     width:30rem;
-    margin-left: 62rem;
-    margin-top: 26rem;
+    margin-left:62rem;
+    margin-top:29rem;
     z-index: -1;
 }
 
@@ -212,10 +212,15 @@ body{
         height:10rem;
     }
     #footer-cloud2{
-        display:none;
+        margin-left:11.7rem;
+        z-index:-1;
+        width:13rem;
+        margin-top: 37rem;
     }
     #footer-cloud{
-        display:none;
+        margin-top:19rem;
+        opacity:0.8;
+        z-index:-5;
     }
     #footer-image{
         display:none;
@@ -228,8 +233,8 @@ body{
         letter-spacing:0.3px;
     }
     #angel{
-        width:15rem;
-        margin-top:7rem;
+        width:10rem;
+        margin-top:15rem;
         z-index:-1;
     }
     #header-feather{
@@ -237,7 +242,13 @@ body{
         margin-top: 3rem;
         z-index:-1;
     }
-
-
-    
+    #nav-icons{
+        display:none;
+    }
+    #footer{
+        font-size:9px;
+        line-height:14px;
+        letter-spacing:0.3px;
+    }
   }
+  
