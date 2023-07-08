@@ -212,6 +212,7 @@ body{
         height:10rem;
     }
     #footer-cloud2{
+        display:none;
         margin-left:11.7rem;
         z-index:-1;
         width:13rem;
