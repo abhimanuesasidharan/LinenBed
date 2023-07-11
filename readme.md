@@ -8,4 +8,4 @@ Hover effects used in : Feather under Home button
                       : Pillows
                       : image in footer
 Almost finished on styling mediaquires for medium device have to be optimised.       
-               
+                                                                                  \- Courtesy : Elina.ui9               

@@ -213,10 +213,7 @@ body{
     }
     #footer-cloud2{
         display:none;
-        margin-left:11.7rem;
-        z-index:-1;
-        width:13rem;
-        margin-top: 37rem;
+
     }
     #footer-cloud{
         margin-top:19rem;
@@ -230,7 +227,7 @@ body{
         left: 0%;
         margin-left: 0;
         font-size:9px;
-        line-height:14px;
+        line-height:12px;
         letter-spacing:0.3px;
     }
     #angel{
